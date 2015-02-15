@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IknowTravelSimple</string>
+    <string name="load_data">Загрузка данных...</string>
+    <string name="error_layout">Не удалось загрузить данные, проверьте интернет-соединение</string>
+    <string name="error_button">Повторить</string>
+    <string name="press">Нажатие</string>
+    <string name="xApi">X-Api-Version</string>
+    <string name="four">4</string>
+    <string name="all">Все</string>
+    <string name="download">Скачать в офф-лайн</string>
+
+
+</resources>
