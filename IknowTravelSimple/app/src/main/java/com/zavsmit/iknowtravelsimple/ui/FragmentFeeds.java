@@ -218,6 +218,7 @@ public class FragmentFeeds extends Fragment {
             adapter.notifyDataSetChanged();
             listFeeds.setSelection(0);
             currentCategory = category;
+            preLast = 0;
         }
 
         if (skip == 0)
